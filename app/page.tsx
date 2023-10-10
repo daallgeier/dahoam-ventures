@@ -29,7 +29,6 @@ export default function Home() {
           height={300}
           priority
         />
-        </br>
         <p className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert font-size:35px" >
         dahoam ventures
         </p>

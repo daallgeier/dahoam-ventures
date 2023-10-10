@@ -25,16 +25,14 @@ export default function Home() {
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/dahoam-ventures-600x300.gif"
           alt="dahoam ventures logo annimated"
-          width={180}
-          height={90}
+          width={600}
+          height={300}
           priority
         />
-        <p
-          className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert font-size:35px" 
-        >
-          
-          dahoam ventures
-          </p>
+        </br>
+        <p className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert font-size:35px" >
+        dahoam ventures
+        </p>
       </div>
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">

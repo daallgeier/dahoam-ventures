@@ -25,8 +25,8 @@ export default function Home() {
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/dahoam-ventures-600x300-noloop.gif"
           alt="dahoam ventures logo annimated"
-          width={600}
-          height={300}
+          width={400}
+          height={150}
           priority
         />
       </div>

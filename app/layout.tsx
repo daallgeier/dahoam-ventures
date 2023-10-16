@@ -24,10 +24,6 @@ export const metadata: Metadata = {
       "max-image-preview": "large",
       "max-snippet": -1,
     },
-    GPTbot: {
-      Allow: '/',
-      Disallow: '/*',
-    }
   },
 }
 

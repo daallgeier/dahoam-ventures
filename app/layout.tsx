@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: 'dahoam ventures by tangerine'
   ,
   icons: {
-    shortcut: '/public/dv-nonlooping.gif',
+    shortcut: '/dv-nonlooping.gif',
   },
   robots: {
     index: true,

@@ -9,9 +9,8 @@ export const metadata: Metadata = {
     default: 'dahoam ventures',
     template: '%s | dahoam ventures',
   },
-  description: {
-    'dahoam ventures by tangerine',
-  },
+  description: 'dahoam ventures by tangerine'
+  ,
   icons: {
     shortcut: '/public/dv-nonlooping.gif',
   },
